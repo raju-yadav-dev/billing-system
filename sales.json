@@ -1,0 +1,64 @@
+[
+    {
+        "invoice_id": "INV-20261109140722732612",
+        "date": "09-11-2026 14:07",
+        "customer": {
+            "name": "Raju Yadav",
+            "phone": "8100280851"
+        },
+        "items": [
+            {
+                "product_id": "P101",
+                "name": "Wireless Mouse",
+                "price": 500.0,
+                "quantity": 1,
+                "amount": 500.0
+            },
+            {
+                "product_id": "P102",
+                "name": "Mechanical Keyboard",
+                "price": 1500.0,
+                "quantity": 1,
+                "amount": 1500.0
+            }
+        ],
+        "subtotal": 2000.0,
+        "discount_percent": 10.0,
+        "discount_amount": 200.0,
+        "gst_percent": 5.0,
+        "gst_amount": 90.0,
+        "total": 1890.0,
+        "payment_method": "Cash"
+    },
+    {
+        "invoice_id": "INV-20261111134216951469",
+        "date": "11-11-2026 13:42",
+        "customer": {
+            "name": "Raju Yadav",
+            "phone": "8100280851"
+        },
+        "items": [
+            {
+                "product_id": "P101",
+                "name": "Wireless Mouse",
+                "price": 500.0,
+                "quantity": 1,
+                "amount": 500.0
+            },
+            {
+                "product_id": "P102",
+                "name": "Mechanical Keyboard",
+                "price": 1500.0,
+                "quantity": 1,
+                "amount": 1500.0
+            }
+        ],
+        "subtotal": 2000.0,
+        "discount_percent": 10.0,
+        "discount_amount": 200.0,
+        "gst_percent": 5.0,
+        "gst_amount": 90.0,
+        "total": 1890.0,
+        "payment_method": "UPI"
+    }
+]
